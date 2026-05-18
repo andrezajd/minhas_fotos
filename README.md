@@ -53,7 +53,7 @@ Sistema de galeria desenvolvido em **PHP + MySQL**, com interface moderna em **t
 Crie um banco chamado:
 
 ```sql
-galeria
+minhas_fotos
 ```
 
 Depois execute o script abaixo no **phpMyAdmin**:
