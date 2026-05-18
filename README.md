@@ -9,6 +9,8 @@ Minhas Fotos Preferidas
 <img width="1921" height="1497" alt="Minhas Fotos Preferidas" src="https://github.com/user-attachments/assets/eb0108fc-5265-4e1e-8443-3c7ff7ad6b0b" />
 
 <img width="1920" height="1080" alt="Captura de tela 2026-05-18 091121" src="https://github.com/user-attachments/assets/239b9c4b-fd5e-42ab-8ed4-140968445b18" />
+<img width="1888" height="860" alt="image" src="https://github.com/user-attachments/assets/f0e3aca8-9e7a-46be-9f2b-4b29fa564fdf" />
+
 
  
 
